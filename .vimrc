@@ -112,7 +112,6 @@ Plugin 'scrooloose/nerdcommenter'
 Plugin 'scrooloose/nerdtree'
 Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 Plugin 'Valloric/MatchTagAlways'
-Plugin 'Valloric/YouCompleteMe'
 Plugin 'docunext/closetag.vim'
 Plugin 'godlygeek/tabular'
 Plugin 'tpope/vim-fugitive'
